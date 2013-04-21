@@ -1,0 +1,2 @@
+https://github.com/kroimon/Arduino-SerialCommand
+https://github.com/dreamcat4/CmdMessenger/blob/master/CmdMessengerExample/CmdMessengerExample.pde
